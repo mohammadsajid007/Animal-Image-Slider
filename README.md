@@ -1,0 +1,2 @@
+# Animal-Image-Slider
+ Animal Image Slider The Animal Image Slider is a visually engaging and interactive project that showcases a collection of animal images in a slider format. Utilizing HTML, CSS, and JavaScript, this project allows users to navigate through the images seamlessly, providing a smooth and dynamic user experience. This slider is perfect for nature enthusiasts, educational websites, or any platform that aims to highlight the beauty of wildlife.
